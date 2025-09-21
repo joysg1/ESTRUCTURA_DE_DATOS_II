@@ -1,0 +1,26 @@
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\B\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\UTP MATRICULA II SEMESTRE 2019\ESTRUCTURAS DE DATOS II\LABORATORIO I\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
